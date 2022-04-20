@@ -1,7 +1,7 @@
 [{
         "flags": "https://flagcdn.com/w320/ki.png",
         "name": "Kiribati",
-        "capital": "South Tarawa"
+        "capital": "Tarawa"
     },
     {
         "flags": "https://flagcdn.com/w320/bj.png",
@@ -161,7 +161,7 @@
     {
         "flags": "https://flagcdn.com/w320/za.png",
         "name": "South Africa",
-        "capital": "Pretoria"
+        "capital": ["Pretoria", "Bloemfontein", "Cape Town"]
 
     },
     {
@@ -792,7 +792,7 @@
     {
         "flags": "https://flagcdn.com/w320/lk.png",
         "name": "Sri Lanka",
-        "capital": "Sri Jayawardenepura Kotte"
+        "capital": ["Sri Jayawardenepura Kotte", "Colombo"]
 
     },
     {
@@ -858,7 +858,7 @@
     {
         "flags": "https://flagcdn.com/w320/bo.png",
         "name": "Bolivia",
-        "capital": "Sucre"
+        "capital": ["Sucre", "La Paz"]
 
     },
     {
