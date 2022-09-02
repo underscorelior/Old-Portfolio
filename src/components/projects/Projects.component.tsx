@@ -1,5 +1,5 @@
 import React from "react";
-
+{/*Add tooltips for hwta i did and maybe main projetcs page */}
 const Projects: React.FC = () => {
   return (
     <div className="my-16 px-3 font-sen" id="projects">
