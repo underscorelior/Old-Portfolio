@@ -1,4 +1,4 @@
-import { RiExternalLinkFill } from "../icons";
+import { RiExternalLinkFill, SiKofi } from "../icons";
 
 const About = () => {
 	return (
@@ -16,13 +16,13 @@ const About = () => {
 					Check out my Discord Bot! [WIP]
 					<RiExternalLinkFill /></a>
 
-				<a href="https://fiverr.underscore.wtf/" className="mt-4 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-400 duration-100 hover:ml-2" target="_blank" rel="noopener noreferrer">
-					Check out my Fiverr
-					<RiExternalLinkFill /></a>
+				<a href="https://ko-fi.com/underscorelior" className="mt-4 flex cursor-pointer flex-row items-center gap-1 font-jost text-xl text-gray-400 duration-100 hover:ml-2" target="_blank" rel="noopener noreferrer">
+					Donate to my Kofi!
+					<SiKofi /></a>
 			</div>
 
 			<div>
-				<a href="https://giger.underscore.wtf/" target="_blank" rel="noopener noreferrer">
+				<a href="https://giger.underscore.wtf/" target="_blank" rel="noopener noreferrer"> {/*Add spinny to giger*/}
 					<img src="/avatar.png" width="112" height="112" className="rounded-full" alt="avatar"/>
 				</a>
 			</div>
